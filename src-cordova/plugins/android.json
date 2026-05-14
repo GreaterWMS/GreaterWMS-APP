@@ -13,23 +13,26 @@
     "cordova-plugin-device": {
       "PACKAGE_NAME": "org.greaterwms.scanner.app"
     },
-    "cordova-plugin-dialogs": {
+    "phonegap-plugin-barcodescanner": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
       "PACKAGE_NAME": "org.greaterwms.scanner.app"
     },
     "cordova-plugin-insomnia": {
       "PACKAGE_NAME": "org.greaterwms.scanner.app"
     },
-    "cordova-plugin-splashscreen": {
+    "cordova-plugin-vibration": {
       "PACKAGE_NAME": "org.greaterwms.scanner.app"
     },
-    "cordova-plugin-vibration": {
+    "cordova-plugin-dialogs": {
       "PACKAGE_NAME": "org.greaterwms.scanner.app"
     },
     "ionic-plugin-keyboard": {
       "PACKAGE_NAME": "org.greaterwms.scanner.app"
     },
-    "phonegap-plugin-barcodescanner": {
-      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "org.greaterwms.scanner.app"
+    },
+    "cordova-plugin-ionic-webview": {
       "PACKAGE_NAME": "org.greaterwms.scanner.app"
     }
   },

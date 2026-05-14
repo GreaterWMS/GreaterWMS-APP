@@ -1,8 +1,8 @@
 export default function () {
   return {
     apptitle: 'GreaterWMS',
-    slogan: 'Easy Come Easy Go',
-    server: 'https://production.56yhz.com',
+    slogan: '微信联系：ts-Wlm',
+    server: '改成自己的地址',
     openid: ''
   }
 }

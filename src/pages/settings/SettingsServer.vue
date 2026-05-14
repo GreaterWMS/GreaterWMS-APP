@@ -16,7 +16,7 @@
         square
         readonly
         v-model="slogan"
-        :label="$t('index.slogan')"
+        label="技术支持"
         style="margin: 15px 15px 0 15px"
       />
       <q-input
